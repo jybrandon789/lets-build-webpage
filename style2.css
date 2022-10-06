@@ -1,0 +1,18 @@
+h1 {
+    font-size: 60px;
+    color:blue;
+    text-align: center;
+}
+
+.big {
+    font-size: 30px;
+}
+
+.small {
+    font-size: 15px;
+    text-decoration:overline;
+}
+
+#image {
+    text-decoration:underline;
+}

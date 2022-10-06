@@ -1,0 +1,44 @@
+h1 {
+    font-size: 40px;
+    color:rgb(131, 24, 133);
+    text-align: right;
+}
+
+
+li {
+    font-size: 20px;
+    line-height: 3;
+    letter-spacing: 1px;  
+}
+
+.cool {
+    letter-spacing: 3px;
+}
+
+.bold{
+    font-weight:bold;
+    color:midnightblue
+}
+
+.true{
+    color:greenyellow
+}
+
+#false{
+    color:red
+}
+
+#rad{
+    color:deeppink
+}
+
+html {
+    background-color: #aac5b5;
+    <link href="https://fonts.googleapis.com/css?family=Alkalami" rel="stylesheet" />
+}
+
+body {
+    background-color: #ccd5ca;
+    width: 700px;
+    margin: 0 auto;
+}
