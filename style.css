@@ -1,3 +1,7 @@
+html {
+    background-color: #aac5b5;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 h1 {
     font-size: 40px;
     color:rgb(131, 24, 133);
@@ -30,11 +34,6 @@ li {
 
 #rad{
     color:deeppink
-}
-
-html {
-    background-color: #aac5b5;
-    <link href="https://fonts.googleapis.com/css?family=Alkalami" rel="stylesheet" />
 }
 
 body {
